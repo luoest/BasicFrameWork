@@ -1,0 +1,55 @@
+16:12:44,898 DEBUG devpinoyLogger:50 - config and OR files loaded
+16:12:48,243 DEBUG devpinoyLogger:68 - start browser: chrome
+16:12:51,465 DEBUG devpinoyLogger:76 - maximized browser and navagate to: http://localhost
+16:12:51,533 DEBUG devpinoyLogger:23 - enter testLogin to test
+16:12:51,664 DEBUG devpinoyLogger:89 - send keys: gotIt, to element: usn_XPATH
+16:12:51,806 DEBUG devpinoyLogger:89 - send keys: gotIt123, to element: psw_CSS
+16:12:52,030 DEBUG devpinoyLogger:102 - clicking on: sbm_NAME
+16:12:54,243 DEBUG devpinoyLogger:37 - inside testLogin test is done.
+16:12:54,842 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+16:12:54,843 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh_CN.ftl"): Not found
+16:12:54,845 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh.ftl"): Not found
+16:12:54,846 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:12:54,847 DEBUG cache:45 - Loading template for "Extent.ftl"("zh_CN", UTF-8, parsed) from "jar:file:/C:/Program%20Files/Java/jdk1.8.0_191/selenium-java-3.9.1/libs/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:12:55,388 DEBUG devpinoyLogger:20 - enter testMemberCenter to test
+16:12:55,978 DEBUG devpinoyLogger:27 - inside testMemberCenter test is done.
+16:12:56,362 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+16:12:56,363 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh_CN.ftl"): Not found
+16:12:56,364 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh.ftl"): Not found
+16:12:56,364 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:12:56,365 DEBUG cache:45 - Loading template for "Extent.ftl"("zh_CN", UTF-8, parsed) from "jar:file:/C:/Program%20Files/Java/jdk1.8.0_191/selenium-java-3.9.1/libs/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:12:56,577 DEBUG devpinoyLogger:115 - clearing on: name_NAME
+16:12:56,680 DEBUG devpinoyLogger:89 - send keys: Ð¡Àî, to element: name_NAME
+16:12:56,761 DEBUG devpinoyLogger:115 - clearing on: qq_NAME
+16:12:56,872 DEBUG devpinoyLogger:89 - send keys: 5566.0, to element: qq_NAME
+16:12:56,951 DEBUG devpinoyLogger:115 - clearing on: msn_NAME
+16:12:57,093 DEBUG devpinoyLogger:89 - send keys: hotmail.com, to element: msn_NAME
+16:12:57,468 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+16:12:57,469 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh_CN.ftl"): Not found
+16:12:57,470 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh.ftl"): Not found
+16:12:57,471 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:12:57,471 DEBUG cache:45 - Loading template for "Extent.ftl"("zh_CN", UTF-8, parsed) from "jar:file:/C:/Program%20Files/Java/jdk1.8.0_191/selenium-java-3.9.1/libs/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:12:57,543 DEBUG devpinoyLogger:50 - SKIP--->>TESTCHANGEINFO
+16:12:57,544 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+16:12:57,544 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh_CN.ftl"): Not found
+16:12:57,545 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh.ftl"): Not found
+16:12:57,546 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:12:57,546 DEBUG cache:45 - Loading template for "Extent.ftl"("zh_CN", UTF-8, parsed) from "jar:file:/C:/Program%20Files/Java/jdk1.8.0_191/selenium-java-3.9.1/libs/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:12:57,653 DEBUG devpinoyLogger:50 - SKIP--->>TESTCHANGEINFO
+16:12:57,654 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+16:12:57,663 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh_CN.ftl"): Not found
+16:12:57,664 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh.ftl"): Not found
+16:12:57,667 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:12:57,667 DEBUG cache:45 - Loading template for "Extent.ftl"("zh_CN", UTF-8, parsed) from "jar:file:/C:/Program%20Files/Java/jdk1.8.0_191/selenium-java-3.9.1/libs/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:12:57,875 DEBUG devpinoyLogger:115 - clearing on: name_NAME
+16:12:58,007 DEBUG devpinoyLogger:89 - send keys: Marry, to element: name_NAME
+16:12:58,077 DEBUG devpinoyLogger:115 - clearing on: qq_NAME
+16:12:58,200 DEBUG devpinoyLogger:89 - send keys: 7698.0, to element: qq_NAME
+16:12:58,269 DEBUG devpinoyLogger:115 - clearing on: msn_NAME
+16:12:58,388 DEBUG devpinoyLogger:89 - send keys: facebo, to element: msn_NAME
+16:12:58,727 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+16:12:58,728 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh_CN.ftl"): Not found
+16:12:58,728 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh.ftl"): Not found
+16:12:58,729 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:12:58,729 DEBUG cache:45 - Loading template for "Extent.ftl"("zh_CN", UTF-8, parsed) from "jar:file:/C:/Program%20Files/Java/jdk1.8.0_191/selenium-java-3.9.1/libs/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:13:03,303 DEBUG devpinoyLogger:134 - All tests are complete.

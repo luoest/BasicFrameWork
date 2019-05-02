@@ -1,0 +1,25 @@
+02/05/2019 16:12:44 devpinoyLogger config and OR files loaded
+02/05/2019 16:12:48 devpinoyLogger start browser: chrome
+02/05/2019 16:12:51 devpinoyLogger maximized browser and navagate to: http://localhost
+02/05/2019 16:12:51 devpinoyLogger enter testLogin to test
+02/05/2019 16:12:51 devpinoyLogger send keys: gotIt, to element: usn_XPATH
+02/05/2019 16:12:51 devpinoyLogger send keys: gotIt123, to element: psw_CSS
+02/05/2019 16:12:52 devpinoyLogger clicking on: sbm_NAME
+02/05/2019 16:12:54 devpinoyLogger inside testLogin test is done.
+02/05/2019 16:12:55 devpinoyLogger enter testMemberCenter to test
+02/05/2019 16:12:55 devpinoyLogger inside testMemberCenter test is done.
+02/05/2019 16:12:56 devpinoyLogger clearing on: name_NAME
+02/05/2019 16:12:56 devpinoyLogger send keys: Ð¡Àî, to element: name_NAME
+02/05/2019 16:12:56 devpinoyLogger clearing on: qq_NAME
+02/05/2019 16:12:56 devpinoyLogger send keys: 5566.0, to element: qq_NAME
+02/05/2019 16:12:56 devpinoyLogger clearing on: msn_NAME
+02/05/2019 16:12:57 devpinoyLogger send keys: hotmail.com, to element: msn_NAME
+02/05/2019 16:12:57 devpinoyLogger SKIP--->>TESTCHANGEINFO
+02/05/2019 16:12:57 devpinoyLogger SKIP--->>TESTCHANGEINFO
+02/05/2019 16:12:57 devpinoyLogger clearing on: name_NAME
+02/05/2019 16:12:58 devpinoyLogger send keys: Marry, to element: name_NAME
+02/05/2019 16:12:58 devpinoyLogger clearing on: qq_NAME
+02/05/2019 16:12:58 devpinoyLogger send keys: 7698.0, to element: qq_NAME
+02/05/2019 16:12:58 devpinoyLogger clearing on: msn_NAME
+02/05/2019 16:12:58 devpinoyLogger send keys: facebo, to element: msn_NAME
+02/05/2019 16:13:03 devpinoyLogger All tests are complete.
