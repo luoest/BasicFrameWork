@@ -30,7 +30,7 @@ public class TestBase {
 	public static Properties config = new Properties();
 	public static Properties OR = new Properties();
 	public static FileInputStream fils;
-	public static Logger log = Logger.getLogger("devpinoyLogger");
+	public static Logger log = Logger.getLogger("basicFramework");
 	public static ExcelReader excel = new ExcelReader(System.getProperty("user.dir") + "\\src\\test\\resources\\excel\\testdata.xlsx");
 	public static ExtentReports rep = ExtentManager.getInstance();
 	public static ExtentTest test;
